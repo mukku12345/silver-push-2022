@@ -1,0 +1,40 @@
+#heading{
+    text-align: center;
+    color: rgb(112, 70, 70);
+    border-bottom: solid 1px #555;
+}
+#yt {
+    height: 360px;
+    width: 340px;
+    margin: 0 auto;
+  }
+  
+  #attempts{
+    height: 300px;
+    background: #555;
+    color: #FFF;
+    /* padding: 5px; */
+    overflow: auto;
+  }
+  
+  #attempts a{
+      color: #0DCFFF;
+  }
+  #content{
+    margin-top: -300px;
+  }
+  #try-again{
+    background-color: #0DCFFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    cursor: pointer;
+  }
+  #try-again:active{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
